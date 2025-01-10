@@ -31,7 +31,7 @@ gcloud auth application-default login
   * Enable [IAM API](https://console.developers.google.com/apis/api/iam.googleapis.com/overview)
   * Enable [Data Catalog API](https://console.developers.google.com/apis/api/datacatalog.googleapis.com/overview)
   * Enable [Artifact Registry](https://console.developers.google.com/apis/api/artifactregistry.googleapis.com/overview) 
-
+  * Enable [Service Usage API](https://console.cloud.google.com/apis/api/serviceusage.googleapis.com)
 
 ### Prepare Terraform State Bucket
 
