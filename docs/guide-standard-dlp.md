@@ -97,7 +97,7 @@ is already done in a previous step)
 
 ```
 tagging_dispatcher_service_image = "< value of env variable TAGGING_DISPATCHER_IMAGE >"
-inspection_dispatcher_service_image = "< value of  env variable INSPECTOR_IMAGE >"
+inspection_dispatcher_service_image = "< value of  env variable INSPECTION_DISPATCHER_IMAGE >"
 inspector_service_image = "< value of env variable INSPECTOR_IMAGE >"
 tagger_service_image = "< value of env variable TAGGER_IMAGE >"
 ``` 
